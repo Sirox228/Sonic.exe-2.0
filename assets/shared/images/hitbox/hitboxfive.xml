@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hitboxfive.png">
+	<SubTexture name="K1" x="0" y="0" width="256" height="720" frameX="0" frameY="0" frameWidth="256" frameHeight="720"/>
+	<SubTexture name="K2" x="256" y="0" width="256" height="720" frameX="0" frameY="0" frameWidth="256" frameHeight="720"/>
+	<SubTexture name="KSP" x="512" y="0" width="256" height="720" frameX="0" frameY="0" frameWidth="256" frameHeight="720"/>
+	<SubTexture name="K3" x="768" y="0" width="256" height="720" frameX="0" frameY="0" frameWidth="256" frameHeight="720"/>
+	<SubTexture name="K4" x="1024" y="0" width="256" height="720" frameX="0" frameY="0" frameWidth="256" frameHeight="720"/>
+</TextureAtlas>
